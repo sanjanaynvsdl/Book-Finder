@@ -4,7 +4,7 @@ A modern web application built with React and Vite that allows users to search a
 
 ## Features
 
-- 🔍 Search books by title, author, or keywords
+🔍 Search books by title, author, or keywords
 -  View detailed book information including descriptions and authors
 -  Beautiful gradient UI with responsive design
 -  Fast and efficient search results
@@ -73,8 +73,4 @@ The application uses the Open Library Search API:
 ## Deployment
 
 This project is configured for deployment on Vercel. Simply connect your GitHub repository to Vercel for automatic deployments.
-
-## License
-
-MIT License
 
